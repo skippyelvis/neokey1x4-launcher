@@ -3,7 +3,7 @@ custom keypad launcher
 
 ### hardware
 - [neokey1x4](https://www.adafruit.com/product/4980)
-- [qtpy rp2040](https://www.adafruit.com/product/4900)
+- [qtpy rp2040](https://www.adafruit.com/product/4900) or other CircuitPy 7.X board with enough RAM
 
 
 ### setup
