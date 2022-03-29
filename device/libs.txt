@@ -1,0 +1,12 @@
+/run/media/homieja/CIRCUITPY/lib
+/run/media/homieja/CIRCUITPY/lib/neopixel.mpy
+/run/media/homieja/CIRCUITPY/lib/adafruit_bus_device
+/run/media/homieja/CIRCUITPY/lib/adafruit_bus_device/spi_device.mpy
+/run/media/homieja/CIRCUITPY/lib/adafruit_bus_device/__init__.py
+/run/media/homieja/CIRCUITPY/lib/adafruit_bus_device/i2c_device.mpy
+/run/media/homieja/CIRCUITPY/lib/neokey1x4.mpy
+/run/media/homieja/CIRCUITPY/lib/adafruit_seesaw
+/run/media/homieja/CIRCUITPY/lib/adafruit_seesaw/neopixel.mpy
+/run/media/homieja/CIRCUITPY/lib/adafruit_seesaw/samd09.mpy
+/run/media/homieja/CIRCUITPY/lib/adafruit_seesaw/seesaw.mpy
+/run/media/homieja/CIRCUITPY/lib/adafruit_seesaw/__init__.py
