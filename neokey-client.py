@@ -16,9 +16,9 @@ keymap = {
     "0,3": "lockscreen.sh",
     "1":   "google-chrome-stable",
     "1,2": "google-chrome-stable https://outlook.office.com/mail/",
-    "1,3": "google-chrome-stable netflix.com",
+    "1,3": "google-chrome-stable youtube.com",
     "2":   "thunar",
-    "2,3": "nitrogren /home/homieja/Pictures/wallpapers",
+    "2,3": "qtile cmd-obj -o window -f kill",
     "3":   "kitty cmatrix"
 }
 
